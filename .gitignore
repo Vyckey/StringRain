@@ -1,0 +1,6 @@
+.idea
+.idea/*
+./out/production
+./out/production/*
+./src/META-INF/*
+StringRain.iml
